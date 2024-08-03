@@ -19,3 +19,5 @@ https://www.linkedin.com/in/chris-varghese/
 This project is proprietary and all rights are reserved by the authors. Unauthorized copying, distributions, or use of any part of this project is strictly prohibited.
 
 © 2024 Skin AI. All rights reserved.
+
+shoutout to dr. nwogu for being a goat prof
