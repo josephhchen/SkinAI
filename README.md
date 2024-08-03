@@ -11,6 +11,7 @@ Fast and accurate analysis of skin lesions using a CNN model trained Joseph Chen
 ## Connect with us on LinkedIn
 
 https://www.linkedin.com/in/joehchen/
+
 https://www.linkedin.com/in/chris-varghese/
 
 ## License
