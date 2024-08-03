@@ -1,5 +1,3 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Skin AI
 
 >**Note**: Privacy: This application collects images of skin lesions submitted by users for diagnostic purposes only; we do not share your information with third party services.
