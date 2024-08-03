@@ -6,11 +6,15 @@
 
 Interface for capturing and uploading images of your skin lesions
 
-Fast and accurate analysis of skin lesions using a CNN model trained by @josephhchen and @datischris
+Fast and accurate analysis of skin lesions using a CNN model trained Joseph Chen & Christopher Varghese
+
+## Connect with us on LinkedIn
+
+https://www.linkedin.com/in/joehchen/
+https://www.linkedin.com/in/chris-varghese/
 
 ## License
 
 This project is proprietary and all rights are reserved by the authors. Unauthorized copying, distributions, or use of any part of this project is strictly prohibited.
 
 © 2024 Skin AI. All rights reserved.
-
