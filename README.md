@@ -18,5 +18,5 @@ Will not be shared until application is released
 
 This project is proprietary and all rights are reserved by the authors. Unauthorized copying, distributions, or use of any part of this project is strictly prohibited.
 
-© [2024] [Skin AI]. All rights reserved.
+© 2024 Skin AI. All rights reserved.
 
