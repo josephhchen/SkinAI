@@ -1,6 +1,6 @@
 # Skin AI
 
->**Note**: Privacy: This application collects images of skin lesions submitted by users for diagnostic purposes only; we do not share your information with third party services.
+>**Note**: Privacy: This application collects images of skin lesions submitted by users for diagnostic purposes only, we do not share your information with third party services.
 
 ## Features
 
