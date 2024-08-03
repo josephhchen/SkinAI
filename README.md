@@ -6,7 +6,7 @@
 
 Interface for capturing and uploading images of your skin lesions
 
-Fast and accurate analysis of skin lesions using a CNN model trained Joseph Chen & Christopher Varghese
+Fast and accurate analysis of skin lesions using a CNN model trained by Joseph Chen & Christopher Varghese
 
 ## Connect with us on LinkedIn!
 
